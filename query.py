@@ -20,18 +20,17 @@ Wissenswertes:
 - die XML-Dateien enthalten Personenreferenzen in Form von `<tei:persName ref="ID">`
 - der Datenbank-Dump ist eine JSON-Datei, die Personeninformationen als Liste von JSON-Objekten enthält
   die jeweils folgende Schlüssel enthalten: "ID", "name"
-- das Skript kann ist in jeder Python3-Umgebung ausführbar und benötigt keine zusätzlichen Abhängigkeiten
-- die Anzahl der auszuwertenden Personen kann über den Parameter `--top` angepasst werden (Default: 10)
+- das Skript ist in jeder Python3-Umgebung ausführbar und benötigt keine zusätzlichen Abhängigkeiten
 
 Aufgabe:
 
 Die gegebene Implementierung enthält eine Reihe von Fehlern, die die Ausführung
-an unterschiedlichen Stellen verhindert. Untersuchen Sie die Umsetzung, identifizieren mögliche
+an unterschiedlichen Stellen verhindert. Untersuchen Sie die Umsetzung, identifizieren Sie mögliche
 Fehlerstellen und verbessern Sie diese (durch Korrektur oder als Kommentar).
 
 Bonus:
 
-Machen Sie sich Gedanken zur Optimierung.
+Machen Sie sich Gedanken zur Optimierung (Performance, Wartbarkeit / Lesbarkeit).
 """
 
 from pathlib import Path
@@ -66,7 +65,7 @@ def extract_referenced_persons(xml_files: list[str]) -> dict[str, int]:
     tei:persName sowie des Attributs ref.
 
     Diese enhält eine ID, von der hier aber immer nur die
-    ersten 9 Zeichen relevant sind. Rückgabe soll eine `dict` sein, welches
+    ersten 9 Zeichen relevant sind. Rückgabe soll ein `dict` sein, welches
     zugleich zählt, wie oft eine Person referenziert wurde.
     """
     ns = {"tei": "http://www.tei-c.org/ns/1.0"}
@@ -91,7 +90,7 @@ def get_top_persons(
     """
     Diese Funktion soll die `n` am häufigsten referenzierten
     Personen als sortierte Liste zurückgeben und dabei jeden Eintrag
-    als Tuple bestehend aus dem aufgelösten Namen, der ID und der
+    als `tuple` bestehend aus dem aufgelösten Namen, der ID und der
     Anzahl der Referenzen speichern.
     """
     result = []
