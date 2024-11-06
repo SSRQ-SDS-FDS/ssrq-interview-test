@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://schema.ssrq-sds-fds.ch/latest/TEI_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://schema.ssrq-sds-fds.ch/latest/TEI_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title>XIV. Abteilung: Die Rechtsquellen des Kantons St.&#160;Gallen, Dritter Teil: Die Landschaften und Landstädte, Band 4: Die Rechtsquellen der
+     Region Werdenberg: Grafschaft Werdenberg und Herrschaft Wartau, Freiherrschaft Sax-Forstegg und Herrschaft Hohensax-Gams</title><editor>
+    <persName>Sibylle Malamud</persName>
+</editor><respStmt><persName>Sibylle Malamud</persName><resp>Transkription</resp><resp>XML-Codierung der Transkription</resp></respStmt><respStmt><persName>Pascale Sutter</persName><resp>Qualitätskontrolle</resp></respStmt></titleStmt>
+         <publicationStmt><publisher>SSRQ-SDS-FDS</publisher>
+            <date type="electronic" when-custom="2019-05-02"/>
+            <date type="print" when-custom="2020-11-20"/>
+         <availability>
+    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+</availability></publicationStmt>
+         <seriesStmt>
+            <title>Sammlung Schweizerischer Rechtsquellen</title>
+            <respStmt>
+               <orgName>Rechtsquellenstiftung des Schweizerischen Juristenvereins</orgName>
+               <resp>Herausgabe</resp>
+            </respStmt>
+            <idno>SSRQ-SG-III_4-23-1</idno><idno type="uuid">9c7fc26b-e50f-4228-87cf-ccf93764279d</idno>
+         </seriesStmt>
+         <sourceDesc><listWit><witness xml:id="id-ssrq-7df06a1b-5ad0-4b21-ad1b-22cbe12f9e4b" n="A">
+            <msDesc>
+               <msIdentifier><settlement xml:lang="de" ref="loc000084">Glarus</settlement><repository xml:lang="de">Landesarchiv Glarus</repository><idno source="https://archivverzeichnis.gl.ch/home/#/content/34935921c4bd41a5b3502278088c69a3" xml:lang="de">LAGL AG III.2402:004</idno><altIdentifier>
+                     <idno>LAGL 68</idno>
+                  </altIdentifier></msIdentifier>
+               <head>Schiedsspruch von Graf Heinrich IV. von Montfort-Tettnang im Streit zwischen seinem Vetter Graf Johann I. von Werdenberg-Sargans und dessen Söhnen einerseits und seinen Brüdern, den Grafen Rudolf II., Hugo V. und Heinrich III., Herren von Werdenberg, andererseits um die Burg Wartau</head>
+               <msContents>
+                  <summary xml:lang="de">
+                     <p>Graf Heinrich IV. von Montfort-Tettnang schlichtet einen Streit um die Burg
+                        Wartau zwischen seinem Vetter Graf Johann I. von Werdenberg-Sargans und
+                        seinen Söhnen Rudolf VI., Johann II., Hugo II. und Heinrich II. einerseits
+                        und den Grafenbrüdern Rudolf II., Hugo V. und Heinrich III. von
+                        Werdenberg-Heiligenberg andererseits. Die Burg Wartau wird den
+                        Werdenberg-Heiligenberger zugesprochen, wie sie sie von Jos Meyer von
+                        Altstätten gelöst haben. Ausgenommen von dieser Zuteilung sind zwei Knechte,
+                        die in Jos Meyers von Altstätten Dienst die Burg eingenommen haben ohne
+                        Wissen und Willen von Graf Rudolf II.. Die Kirche von Gretschins, die zur
+                        Burg Wartau gehört, ist einst von Graf Johann I. von Werdenberg-Sargans dem
+                        Sohn des Hans von Wartau verliehen worden. Als die Burg Wartau von Jos Meyer
+                        von Altstätten erobert worden ist, verleiht dieser die Pfründe seinem Sohn
+                        mit dem Einverständnis von Graf Rudolf II. von Werdenberg-Heiligenberg. Die
+                        Entscheidung über die Pfründe wird an den bischöflichen Vikar in Chur
+                        delegiert. Lehenherr des Kirchensatzes bleiben aber Graf Rudolf II. von
+                        Werdenberg-Heiligenberg, sein Bruder und ihre Erben. </p><p>Für den Aussteller siegelt Bischof Hartmann von Chur.</p></summary>
+                  <msItem>
+                     <textLang xml:lang="de"/>
+                     
+                  </msItem>
+               </msContents>
+               <physDesc><objectDesc>
+                     <supportDesc>
+                        <support>
+                           <material type="parchment"/>
+                        </support>
+                        <extent>
+                           <dimensions type="leaves">
+                              <height unit="cm" quantity="23.0"/>
+                              <width unit="cm" quantity="29.0"/>
+                           </dimensions>
+                           <dimensions type="plica">
+                              <width unit="cm" quantity="3.5"/>
+                           </dimensions>
+                        </extent>
+                        <condition agent="spot"><p>fleckig</p></condition>
+                     </supportDesc>
+                  </objectDesc><bindingDesc><p>Original</p></bindingDesc><handDesc><handNote xml:id="hand15c"><date calendar="gregorian" from-custom="1401-01-01" to-custom="1500-12-31"/></handNote><handNote xml:id="otherHand"/></handDesc><sealDesc>
+                     <seal n="1" condition="damaged" material="wax" shape="round" attachment="sealed_on_a_parchment_tag">
+                        <persName role="sigillant" ref="per000377b">Bischof Hartmann&#160;II. von Chur</persName>
+                     </seal>
+                  </sealDesc></physDesc>
+               <history>
+                  <origin><origDate type="document" when-custom="1399-07-02" calendar="julian"/><origPlace type="document" ref="loc000007">Chur</origPlace></origin>
+               </history>
+               <additional>
+                  <listBibl type="edition">
+                     
+                     <bibl><ref target="https://www.ssrq-sds-fds.ch/online/SG_III_2/index.html#p_58">SSRQ SG III/2, Nr. 31</ref></bibl>
+                  </listBibl>
+                  <listBibl type="url">
+                     
+                     <bibl><ref target="https://www.ssrq-sds-fds.ch/online/SG_III_2/index.html#p_58"> https://www.ssrq-sds-fds.ch/online/SG_III_2/index.html#p_58</ref></bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </witness><witness xml:id="id-ssrq-fcea3233-0cad-4990-9256-c57746c8b90d" n="B">
+            <msDesc>
+               <msIdentifier><settlement xml:lang="de" ref="loc000084">Glarus</settlement><repository xml:lang="de">Landesarchiv Glarus</repository><idno source="https://archivverzeichnis.gl.ch/home/#/content/9af6b3fe0f15481bac5aec8b9e3e62e1" xml:lang="de">LAGL AG III.2409:016</idno><altIdentifier>
+                     <idno>LAGL 50</idno>
+                  </altIdentifier></msIdentifier>
+               <head>Schiedsspruch von Graf Heinrich IV. von Montfort-Tettnang im Streit zwischen seinem Vetter Graf Johann I. von Werdenberg-Sargans und dessen Söhnen einerseits und seinen Brüdern, den Grafen Rudolf II., Hugo V. und Heinrich III., Herren von Werdenberg, andererseits um die Burg Wartau</head>
+               <msContents>
+                  <summary xml:lang="de">
+                     <p>Graf Heinrich von Montfort, Herr zu Tettnang schlichtet zwischen seinem Vetter Graf Johannes von Werdenberg und Sargans und dessen Söhnen, den Grafen Rudolf, Hugo, Hans und Heinrich einerseits und seinen Brüdern, den Grafen Rudolf, Hugo und Heinrich, Herren von Werdenberg andererseits einen Streit um die Feste Wartau. Die Grafen Rudolf, Hugo und Heinrich von Werdenberg sollen bei ihren Rechten an der Feste Wartau bleiben, wie sie sie von Jos Meyer gelöst haben. Ausgenommen von dieser Zuteilung sind zwei Knechte, die in Jos Meyers Dienst die Feste einnahmen ohne Wissen und Willen von Graf Rudolf.</p>
+                     <p>Die Pfründe von Gretschins, die zur Feste Wartau gehört, wurde einst von Graf Hans von Werdenberg und Sargans dem Ulrich, Sohn des Hans von Wartau, danach aber von Jos Meyer im Einverständnis mit Graf Rudolf seinem eigenen Sohn Ulrich übertragen. Die Entscheidung wird an den bischöflichen Vikar von Chur delegiert. Lehenherr des Kirchensatzes bleiben aber Graf Rudolf von Werdenberg, sein Bruder und ihre Erben.</p><p>Es siegelt im Original Bischof Hartmann von Chur für Graf Heinrich von Montfort.</p></summary>
+                  <msItem>
+                     <textLang xml:lang="de"/>
+                     
+                     
+                  </msItem>
+               </msContents>
+               <physDesc><objectDesc>
+                     <supportDesc>
+                        <support>
+                           <material type="paper"/>
+                        </support>
+                        <extent>
+                           <dimensions type="leaves">
+                              <height unit="cm" quantity="36.0"/>
+                              <width unit="cm" quantity="23.0"/>
+                           </dimensions>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc><bindingDesc><p>Abschrift (Doppelblatt, 1 Seite beschrieben)</p></bindingDesc></physDesc>
+               <history>
+                  <origin><origDate type="document" from-custom="1701-01-01" to-custom="1800-12-31" calendar="unknown"/><origDate type="content" when-custom="1399-07-02" calendar="julian"/></origin>
+               </history>
+               <additional>
+                  <listBibl type="edition">
+                     
+                     <bibl>SSRQ SG III/2, Nr. 31</bibl>
+                  </listBibl>
+                  <listBibl type="url">
+                     
+                     <bibl><ref target="https://www.ssrq-sds-fds.ch/online/SG_III_2/index.html#p_58">https://www.ssrq-sds-fds.ch/online/SG_III_2/index.html#p_58</ref></bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </witness></listWit></sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>
+               <ref target="https://p.ssrq-sds-fds.ch/guidelines/transcription"/>
+            </p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term ref="key000021">Burg</term>
+               <term ref="key000032">Patronatsrecht</term>
+               <term ref="key000040">Kirchensatz</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text type="summary"><body>
+               <div>
+                  <p>Graf <persName ref="per000436a">Heinrich&#160;IV. von Montfort-Tettnang</persName>
+                     schlichtet einen Streit um die Burg <placeName ref="loc000829">Wartau</placeName> zwischen seinem Vetter Graf <persName ref="per000118a">Johann&#160;I. von Werdenberg-Sargans</persName> und seinen Söhnen <persName ref="per000119a">Rudolf VI.</persName>, <persName ref="per000120a">Johann
+                        II.</persName>, <persName ref="per000122a">Hugo II.</persName> und <persName ref="per000123a">Heinrich II.</persName> einerseits und den Grafenbrüdern
+                        <persName ref="per000429a">Rudolf II.</persName>, <persName ref="per000386a">Hugo V.</persName> und <persName ref="per000430a">Heinrich&#160;III. von
+                        Werdenberg-Heiligenberg</persName> andererseits. Die Burg <placeName ref="loc000829">Wartau</placeName> wird den <orgName ref="org000019">Werdenberg-Heiligenberger</orgName> zugesprochen, wie sie sie von <persName ref="per000437a">Jos Meyer von Altstätten</persName> gelöst haben.
+                     Ausgenommen von dieser Zuteilung sind zwei <term ref="key000876">Knechte</term>, die in <persName ref="per000437a">Jos Meyers von
+                        Altstätten</persName>
+                     <term ref="key000243">Dienst</term> die <term ref="key000021">Burg</term>
+                     eingenommen haben ohne Wissen und Willen von Graf <persName ref="per000429a">Rudolf II.</persName>. Die Kirche von <placeName ref="loc001066">Gretschins</placeName>, die zur Burg Wartau gehört, ist einst von Graf
+                        <persName ref="per000118a">Johann&#160;I. von Werdenberg-Sargans</persName> dem
+                     Sohn des <persName ref="per000234a">Hans von Wartau</persName> verliehen
+                     worden. Als die Burg Wartau von <persName ref="per000437a">Jos Meyer von
+                        Altstätten</persName> erobert worden ist, verleiht dieser die <term ref="key000193">Pfründe</term> seinem Sohn mit dem Einverständnis von Graf
+                        <persName ref="per000429a">Rudolf&#160;II. von
+                     Werdenberg-Heiligenberg</persName>. Die Entscheidung über die Pfründe wird an
+                     den bischöflichen <term ref="key000634">Vikar</term> in <placeName ref="loc000007">Chur</placeName> delegiert. <term ref="key000280">Lehenherr</term> des <term ref="key000040">Kirchensatzes</term> bleiben
+                     aber Graf <persName ref="per000429a">Rudolf&#160;II. von
+                        Werdenberg-Heiligenberg</persName>, sein Bruder und ihre Erben.</p>
+                  <p>Ausstellungsort ist <placeName ref="loc000007">Chur</placeName>. </p>
+               </div>
+               
+                  <ab type="dorsal" place="verso" hand="hand15c">
+                     <lb/>Ein spruchbrieff umb beid kilchensatz zuͦ Wartow und anders, actum anno
+                     1399</ab>
+               
+               
+                  <ab type="dorsal" place="verso" hand="otherHand">
+                     <lb/>Wie Wartow uff graf <persName ref="per000118a">Hansen von
+                        Sangans</persName> handen zuͦ der von Montfort handen komen</ab>
+               
+               
+                  <ab type="archiving_reference" place="verso">
+                     <lb/>N<hi rend="sup">o</hi>
+                     <del><add place="above">202</add></del> 68; A 2</ab>
+               
+            </body><back>
+         <div>
+            <p>Zur Werdenberger <term ref="key000174">Fehde</term> und zu der damit verbundenen
+               Eroberung der Burg <placeName ref="loc000829">Wartau</placeName> durch die <orgName ref="org000008">Sarganser</orgName> vgl. <bibl>
+                  <ref>SSRQ&#160;SG III/2.1</ref>, <ref target="https://www.ssrq-sds-fds.ch/online/SG_III_2/index.html#p_LXXIII">S.&#160;LXXIII</ref>; <ref target="https://www.ssrq-sds-fds.ch/online/SG_III_2/index.html#p_45">Nr.&#160;25</ref>; <ref target="https://www.ssrq-sds-fds.ch/online/SG_III_2/index.html#p_58">Nr.&#160;31</ref></bibl> sowie <ref target="urn:ssrq:SSRQ-SG-III_4-17-1">SSRQ SG III/4 17-1</ref>;
+                  <ref target="urn:ssrq:SSRQ-SG-III_4-20-1">SSRQ SG III/4 20-1</ref>; <ref target="urn:ssrq:SSRQ-SG-III_4-27-1">SSRQ SG III/4 27-1</ref>.</p>
+         </div>
+      </back></text>
+</TEI>

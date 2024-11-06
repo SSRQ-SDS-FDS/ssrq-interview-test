@@ -1,0 +1,7 @@
+[project]
+name = "ssrq-interview-test"
+version = "0.1.0"
+description = "A simple script to load names from xml files and extract the most common names"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []

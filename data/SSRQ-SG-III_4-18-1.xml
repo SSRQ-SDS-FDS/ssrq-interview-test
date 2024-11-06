@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://schema.ssrq-sds-fds.ch/latest/TEI_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://schema.ssrq-sds-fds.ch/latest/TEI_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title>XIV. Abteilung: Die Rechtsquellen des Kantons St.&#160;Gallen, Dritter Teil: Die Landschaften und Landstädte, Band 4: Die Rechtsquellen der
+     Region Werdenberg: Grafschaft Werdenberg und Herrschaft Wartau, Freiherrschaft Sax-Forstegg und Herrschaft Hohensax-Gams</title><editor>
+    <persName>Sibylle Malamud</persName>
+</editor><respStmt><persName>Sibylle Malamud</persName><resp>Transkription</resp><resp>XML-Codierung der Transkription</resp></respStmt><respStmt><persName>Pascale Sutter</persName><resp>Qualitätskontrolle</resp></respStmt></titleStmt>
+         <publicationStmt><publisher>SSRQ-SDS-FDS</publisher>
+            <date type="electronic" when-custom="2019-07-09"/>
+            <date type="print" when-custom="2020-11-20"/>
+         <availability>
+    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+</availability></publicationStmt>
+         <seriesStmt>
+            <title>Sammlung Schweizerischer Rechtsquellen</title>
+            <respStmt>
+               <orgName>Rechtsquellenstiftung des Schweizerischen Juristenvereins</orgName>
+               <resp>Herausgabe</resp>
+            </respStmt>
+            <idno>SSRQ-SG-III_4-18-1</idno><idno type="uuid">7efb04c3-3f11-4252-b189-fb0b2836a424</idno>
+         </seriesStmt>
+         <sourceDesc><listWit><witness xml:id="id-ssrq-45f728fa-9d4a-4606-89a2-8beaa43c7717" n="A">
+            <msDesc>
+               <msIdentifier><settlement xml:lang="de" ref="loc000082">Gallen</settlement><repository xml:lang="de">Staatsarchiv St. Gallen</repository><idno xml:lang="de">StASG AA 2 U 02</idno><altIdentifier>
+                     <idno>StASG AA 2 U 2</idno>
+                  </altIdentifier></msIdentifier>
+               <head>Graf Albrecht III. von Werdenberg-Heiligenberg(-Bludenz) verkauft an Ulrich Eberhard II. von Sax-Hohensax seinen Hof in Sennwald und seine Leibeigene Katharina</head>
+               <msContents>
+                  <summary xml:lang="de">
+                     <p>Graf Albrecht III. von Werdenberg-Heiligenberg(-Bludenz), Vogt in Feldkirch, verkauft an Ulrich Eberhard II. von Sax-Hohensax, den Jüngeren, seinen Eigenhof in Sennwald samt allen Rechten beidseits des Rheins und seine Leibeigene Katharina Helber (Helwer) von Mauren, Ehefrau von Hans Rudolf von Hebenau, um 650 Pfund.</p><p>Der Aussteller siegelt. Erbetene Siegler: Graf Rudolf II. von Werdenberg-Heiligenberg, Rudolf von Ems, Oswald von St. Johann, Ulrich Gmünder von Feldkirch.</p></summary>
+                  <msItem>
+                     <textLang xml:lang="de"/>
+                     
+                  </msItem>
+               </msContents>
+               <physDesc><objectDesc>
+                     <supportDesc>
+                        <support>
+                           <material type="parchment"/>
+                        </support>
+                        <extent>
+                           <dimensions type="leaves">
+                              <height unit="cm" quantity="30.0"/>
+                              <width unit="cm" quantity="47.0"/>
+                           </dimensions>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc><bindingDesc><p>Original</p></bindingDesc><handDesc><handNote xml:id="hand14c"><date calendar="gregorian" from-custom="1301-01-01" to-custom="1400-12-31"/></handNote><handNote xml:id="otherHand"/></handDesc><sealDesc>
+                     <seal n="1" material="wax" shape="round" condition="well-preserved" attachment="sealed_on_a_parchment_tag">
+                        <persName role="sigillant" ref="per000416b">Graf Albrecht III. von Werdenberg-Heiligenberg(-Bludenz)</persName>
+                     </seal>
+                     <seal n="2" material="wax" shape="round" condition="well-preserved" attachment="sealed_on_a_parchment_tag">
+                        <persName role="sigillant" ref="per000429a">Graf Rudolf&#160;II. von Werdenberg-Heiligenberg</persName>
+                     </seal>
+                     <seal n="3" material="wax" shape="round" condition="well-preserved" attachment="sealed_on_a_parchment_tag">
+                        <persName role="sigillant" ref="per005662a">Rudolf von Ems</persName>
+                     </seal>
+                     <seal n="4" material="wax" shape="round" condition="well-preserved" attachment="sealed_on_a_parchment_tag">
+                        <persName role="sigillant" ref="per000434a">Oswald von St.&#160;Johann</persName>
+                     </seal>
+                     <seal n="5" material="wax" shape="round" condition="well-preserved" attachment="sealed_on_a_parchment_tag">
+                        <persName role="sigillant" ref="per005665a">Ulrich Gmünder von Feldkirch</persName>
+                     </seal>
+                  </sealDesc></physDesc>
+               <history>
+                  <origin><origDate type="document" when-custom="1396-01-25" calendar="julian">sant Pauls tag, als er bekert ward</origDate><origPlace type="document" ref="loc000061">Feldkirch</origPlace></origin>
+               </history>
+               <additional>
+                  <listBibl type="edition">
+                     
+                     <bibl><ref target="http://permalink.snl.ch/bib/chbsg000091563">LUB</ref> I/2.2, Nr. 77</bibl>
+                     <bibl><ref target="http://permalink.snl.ch/bib/chbsg000135621">UBSG</ref>, Bd. 4, Nr. 2106 (unvollständig)</bibl>
+                     <bibl><ref target="http://permalink.snl.ch/bib/chbsg000056393">ChSG</ref>, Bd. 11, Nr. 6776</bibl>
+                  </listBibl>
+                  <listBibl type="summary">
+                     
+                     <bibl><ref target="http://permalink.snl.ch/bib/chbsg000110417">URStAZH</ref>, Bd. 7, Nr. 3870 a (Nachträge zu Bd. 3, S. 456)</bibl>
+                     <bibl><ref target="http://permalink.snl.ch/bib/chbsg000142777">Senn, Chronik</ref>, S. 62</bibl>
+                  </listBibl>
+                  <listBibl type="literature">
+                     
+                     <bibl><ref target="http://permalink.snl.ch/bib/chbsg000080293">Deplazes-Haefliger 1976, S. 105–108</ref></bibl>
+                  </listBibl>
+                  <listBibl type="url">
+                     
+                     <bibl><ref target="http://monasterium.net/mom/CSGXI/6776./charter">http://monasterium.net/mom/CSGXI/6776./charter</ref></bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </witness><witness xml:id="id-ssrq-3af11e16-fad9-4e1e-9e2e-75be1f21719e" n="B">
+            <msDesc>
+               <msIdentifier><settlement xml:lang="de" ref="loc000065">Zürich</settlement><repository xml:lang="de">Staatsarchiv Zürich</repository><idno xml:lang="de">StAZH F II a 383 b, fol. 20r–22r</idno></msIdentifier>
+               <head>Graf Albrecht III. von Werdenberg-Heiligenberg(-Bludenz) verkauft an Ulrich Eberhard II. von Sax-Hohensax seinen Hof in Sennwald und seine Leibeigene Katharina</head>
+               <msContents>
+                  <summary xml:lang="de">
+                     <p>Graf Albrecht III. von Werdenberg-Heiligenberg(-Bludenz), Vogt in Feldkirch, verkauft an Ulrich Eberhard II. von Sax-Hohensax, den Jüngeren, seinen Eigenhof in Sennwald samt allen Rechten beidseits des Rheins und seine Leibeigene Katharina Helber (Helwer) von Mauren, Ehefrau von Hans Rudolf von Hebenau, um 650 Pfund.</p><p>Der Aussteller siegelt. Erbetene Siegler: Graf Rudolf II. von Werdenberg-Heiligenberg, Rudolf von Ems, Oswald von St. Johann, Ulrich Gmünder von Feldkirch.</p></summary>
+                  <msItem>
+                     <textLang xml:lang="de"/>
+                     
+                     
+                  </msItem>
+               </msContents>
+               <physDesc><objectDesc>
+                     <supportDesc>
+                        <support>
+                           <material type="parchment"/>
+                        </support>
+                        <extent>
+                           <dimensions type="leaves">
+                              <height unit="cm" quantity="31.0"/>
+                              <width unit="cm" quantity="20.0"/>
+                           </dimensions>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc><bindingDesc><p>Abschrift, Buch (4 Blätter Inhaltsverzeichnis, 174 Folii) mit Ledereinband</p></bindingDesc></physDesc>
+               <history>
+                  <origin><origDate type="document" from-custom="1618-01-01" to-custom="1618-12-31" calendar="unknown"/><origDate type="content" when-custom="1396-01-25" calendar="julian">sant Paulstag, als er bekert ward</origDate><origPlace type="document" ref="loc000061">Feldkirch</origPlace></origin>
+               </history>
+               <additional>
+                  <listBibl type="edition">
+                     
+                     <bibl><ref target="http://permalink.snl.ch/bib/chbsg000091563">LUB</ref> I/2.2, Nr. 77</bibl>
+                     <bibl><ref target="http://permalink.snl.ch/bib/chbsg000056393">ChSG</ref>, Bd. 11, Nr. 6776</bibl>
+                  </listBibl>
+                  <listBibl type="summary">
+                     
+                     <bibl><ref target="http://permalink.snl.ch/bib/chbsg000110417">URStAZH</ref>, Bd. 7, Nr. 3870 a (Nachträge zu Bd. 3, S. 456)</bibl>
+                     <bibl><ref target="http://permalink.snl.ch/bib/chbsg000135621">UBSG</ref>, Bd. 4, Nr. 2106 (unvollständig)</bibl>
+                  </listBibl>
+                  <listBibl type="url">
+                     
+                     <bibl><ref target="http://monasterium.net/mom/CSGXI/6776./charter">http://monasterium.net/mom/CSGXI/6776./charter</ref></bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </witness><witness xml:id="id-ssrq-8a060ad6-b4d8-4855-9c71-b08043ee83a5" n="C">
+            <msDesc>
+               <msIdentifier><settlement xml:lang="de" ref="loc000082">Gallen</settlement><repository xml:lang="de">Staatsarchiv St. Gallen</repository><idno xml:lang="de">StASG AA 2 B 001a,&#160;fol. 18r–19v</idno></msIdentifier>
+               <head>Graf Albrecht III. von Werdenberg-Heiligenberg(-Bludenz) verkauft an Ulrich Eberhard II. von Sax-Hohensax seinen Hof in Sennwald und seine Leibeigene Katharina</head>
+               <msContents>
+                  <summary xml:lang="de">
+                     <p>Graf Albrecht III. von Werdenberg-Heiligenberg(-Bludenz), Vogt in Feldkirch, verkauft an Ulrich Eberhard II. von Sax-Hohensax, den Jüngeren, seinen Eigenhof in Sennwald samt allen Rechten beidseits des Rheins und seine Leibeigene Katharina Helber (Helwer) von Mauren, Ehefrau von Hans Rudolf von Hebenau, um 650 Pfund.</p><p>Der Aussteller siegelt. Erbetene Siegler: Graf Rudolf II. von Werdenberg-Heiligenberg, Rudolf von Ems, Oswald von St. Johann, Ulrich Gmünder von Feldkirch.</p></summary>
+                  <msItem>
+                     <textLang xml:lang="de"/>
+                     
+                     
+                  </msItem>
+               </msContents>
+               <physDesc><objectDesc>
+                     <supportDesc>
+                        <support>
+                           <material type="paper"/>
+                        </support>
+                        <extent>
+                           <dimensions type="leaves">
+                              <height unit="cm" quantity="32.0"/>
+                              <width unit="cm" quantity="22.0"/>
+                           </dimensions>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc><bindingDesc><p>Abschrift, Buch (bis 168 foliert, danach 21 Folii leer) mit Ledereinband</p></bindingDesc></physDesc>
+               <history>
+                  <origin><origDate type="document" from-custom="1618-01-01" to-custom="1618-12-31" calendar="unknown"/><origDate type="content" when-custom="1396-01-25" calendar="julian"/></origin>
+               </history>
+            </msDesc>
+         </witness><witness xml:id="id-ssrq-65e9bb87-755a-4511-82d6-37ba28be2770" n="D">
+            <msDesc>
+               <msIdentifier><settlement xml:lang="de" ref="loc000065">Zürich</settlement><repository xml:lang="de">Staatsarchiv Zürich</repository><idno xml:lang="de">StAZH B I 256, fol. 566r–569r</idno></msIdentifier>
+               <head>Graf Albrecht III. von Werdenberg-Heiligenberg(-Bludenz) verkauft an Ulrich Eberhard II. von Sax-Hohensax seinen Hof in Sennwald und seine Leibeigene Katharina</head>
+               <msContents>
+                  <summary xml:lang="de">
+                     <p>Graf Albrecht III. von Werdenberg-Heiligenberg(-Bludenz), Vogt in Feldkirch, verkauft an Ulrich Eberhard II. von Sax-Hohensax, den Jüngeren, seinen Eigenhof in Sennwald samt allen Rechten beidseits des Rheins und seine Leibeigene Katharina Helber (Helwer) von Mauren, Ehefrau von Hans Rudolf von Hebenau, um 650 Pfund.</p><p>Der Aussteller siegelt. Erbetene Siegler: Graf Rudolf II. von Werdenberg-Heiligenberg, Rudolf von Ems, Oswald von St. Johann, Ulrich Gmünder von Feldkirch.</p></summary>
+                  <msItem>
+                     <textLang xml:lang="de"/>
+                     
+                     
+                  </msItem>
+               </msContents>
+               <physDesc><objectDesc>
+                     <supportDesc>
+                        <support>
+                           <material type="paper"/>
+                        </support>
+                     </supportDesc>
+                  </objectDesc><bindingDesc><p>Abschrift</p></bindingDesc></physDesc>
+               <history>
+                  <origin><origDate type="document" from-custom="1702-01-01" to-custom="1709-12-31" calendar="unknown"/><origDate type="content" when-custom="1396-01-25" calendar="julian"/></origin>
+               </history>
+               <additional>
+                  <listBibl type="edition">
+                     
+                     <bibl><ref target="http://permalink.snl.ch/bib/chbsg000091563">LUB</ref> I/2.2, Nr. 77</bibl>
+                     <bibl><ref target="http://permalink.snl.ch/bib/chbsg000056393">ChSG</ref>, Bd. 11, Nr. 6776</bibl>
+                  </listBibl>
+                  <listBibl type="summary">
+                     
+                     <bibl><ref target="http://permalink.snl.ch/bib/chbsg000110417">URStAZH</ref>, Bd. 7, Nr. 3870 a (Nachträge zu Bd. 3, S. 456)</bibl>
+                     <bibl><ref target="http://permalink.snl.ch/bib/chbsg000135621">UBSG</ref>, Bd. 4, Nr. 2106 (unvollständig)</bibl>
+                     
+                  </listBibl>
+                  <listBibl type="url">
+                     
+                     <bibl><ref target="http://www.mom-ca.uni-koeln.de/mom/CSGXI/6776.">http://www.mom-ca.uni-koeln.de/mom/CSGXI/6776.</ref></bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </witness></listWit></sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>
+               <ref target="https://p.ssrq-sds-fds.ch/guidelines/transcription"/>
+            </p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term ref="key000369">Kauf</term>
+               <term ref="key000085">Leibeigene</term>
+               <term ref="key004478">Hof</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text type="summary"><body>
+               <div>
+                  <p>Graf <persName ref="per000416b">Albrecht III. von Werdenberg-Heiligenberg(-Bludenz)</persName>,
+                     Vogt in <placeName ref="loc000061">Feldkirch</placeName>, verkauft an <persName ref="per004528">Ulrich Eberhard II., den Jüngeren, von
+                        Sax-Hohensax</persName> seinen <term ref="key004478">Eigenhof</term> in
+                        <placeName ref="loc007589.01">Sennwald</placeName> samt allen Rechten
+                        (<orig>aygenn hof gelegen im Sennwald, den selben unsern hof mit luten, mit
+                        guten, mit zinsen, mit sturan, mit tagwann, mit diensten, mit vallen, mit
+                        gelasden, mit zwingen, mit bannen, mit frôwan und mannen, knaban und
+                        tohtran, jungen vnd alten <gap reason="irrelevant"/></orig>) beidseits des
+                        <placeName ref="loc000644">Rheins</placeName> und seine <term ref="key000085">Leibeigene</term>
+                     <persName ref="per005648a">Katharina Helber</persName> (<orig>Helwer</orig>)
+                     von <placeName ref="loc007588.01">Mauren</placeName>, <persName ref="per005650a">Hanns Rudolf</persName> von <orig><placeName ref="loc007587.02">Hewenöwes</placeName></orig> (Hebenau) Ehefrau, um
+                        <measure type="currency" quantity="650" unit="lb">650 Pfund</measure>.</p>
+               </div>
+               
+                  <ab type="dorsal" place="verso" hand="hand14c">
+                     <lb/>Khaufbrief umb den hof im Sennwald <lb/>a<hi rend="sup">o</hi> 1396</ab>
+               
+               
+                  <ab type="dorsal" place="verso" hand="otherHand">
+                     <lb/>N 3: Ein koufbrieff umb den hoff im Senwald <lb/>den <damage agent="faded_ink"><gap unit="word" quantity="1"/></damage>
+                     <persName ref="per004528">Eberhart von Sax</persName> erkouft hat</ab>
+               
+               
+                  <ab place="verso" type="archiving_reference">
+                     <lb/>Ingroßiert; N<hi rend="sup">o</hi> 2; <lb/><del>Nr<hi rend="sup">o</hi>
+                        1</del> <lb/>Sakristey trk. 39 <unclear>B.</unclear> 2. <del>Nr<hi rend="sup">o</hi> 4</del>
+                     <lb/>Cist. 20 arca <del>K</del> CC2 <del>N<hi rend="sup">o</hi> 154</del>
+                  </ab>
+               
+            </body><back>
+         <div>
+            <p>Während <persName ref="per004528">Ulrich Eberhard I., der Ältere, von
+                  Sax-Hohensax</persName> nach <date from-custom="1393-01-01" to-custom="1393-12-31" calendar="julian">1393</date> einen Teil seines
+               Besitzes verkaufen muss (wohl aufgrund finanzieller Engpässe wegen der <term ref="key000174">Fehde</term> innerhalb der <orgName ref="org000384">Hohensaxer</orgName> [<ref target="urn:ssrq:SSRQ-SG-III_4-15-1">SSRQ SG III/4 15-1</ref>]), gelingt es seinem Neffen
+                  <persName ref="per004528">Ulrich Eberhard II., dem Jüngeren</persName>, sowohl im
+                  <placeName ref="loc000777">Thurgau</placeName> als auch im <placeName ref="loc000648">Rheintal</placeName> seinen Besitz zu erweitern. Vor allem mit dem
+                  <term ref="key000369">Kauf</term> des Hofes <placeName ref="loc007589.01">Sennwald</placeName> wird das zur Burg <placeName ref="loc006124">Forstegg</placeName> gehörige Kerngebiet der Hohensaxer deutlich vergrössert
+                     (<bibl><ref target="http://permalink.snl.ch/bib/chbsg000080293">Deplazes-Haefliger 1976</ref>, S.&#160;105–108</bibl>).</p>
+         </div>
+      </back></text>
+</TEI>

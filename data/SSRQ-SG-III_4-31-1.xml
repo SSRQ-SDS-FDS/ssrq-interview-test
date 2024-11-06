@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://schema.ssrq-sds-fds.ch/latest/TEI_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://schema.ssrq-sds-fds.ch/latest/TEI_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title>XIV. Abteilung: Die Rechtsquellen des Kantons St.&#160;Gallen, Dritter Teil: Die Landschaften und Landstädte, Band 4: Die Rechtsquellen der
+     Region Werdenberg: Grafschaft Werdenberg und Herrschaft Wartau, Freiherrschaft Sax-Forstegg und Herrschaft Hohensax-Gams</title><editor>
+    <persName>Sibylle Malamud</persName>
+</editor><respStmt><persName>Sibylle Malamud</persName><resp>Transkription</resp><resp>XML-Codierung der Transkription</resp><resp>Erstellung Faksimile</resp></respStmt><respStmt><persName>Pascale Sutter</persName><resp>Qualitätskontrolle</resp></respStmt></titleStmt>
+         <publicationStmt><publisher>SSRQ-SDS-FDS</publisher>
+            <date type="electronic" when-custom="2019-08-19"/>
+            <date type="print" when-custom="2020-11-20"/>
+            <availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Sammlung Schweizerischer Rechtsquellen</title>
+            <respStmt>
+    <orgName>Rechtsquellenstiftung des Schweizerischen Juristenvereins</orgName>
+    <resp>Herausgabe</resp>
+            </respStmt>
+            <idno>SSRQ-SG-III_4-31-1</idno><idno type="uuid">c6d86260-7004-404a-b382-c374f3ce6476</idno>
+         </seriesStmt>
+         <sourceDesc>
+            <msDesc>
+    <msIdentifier><settlement xml:lang="de" ref="loc000084">Glarus</settlement><repository xml:lang="de">Landesarchiv Glarus</repository><idno source="https://archivverzeichnis.gl.ch/home/#/content/37485b263a63445a95e48c9f5fe0faab" xml:lang="de">LAGL AG III.2412:001</idno><altIdentifier>
+          <idno>LAGL 107N</idno>
+       </altIdentifier></msIdentifier>
+    <head>Hans Bannholzer, Pfleger der Georgskirche und der Pfarrei Buchs, verleiht den St. Jörgenberg Hans Wilhelm, Walser ab dem Buchserberg, zu Erblehen</head>
+    <msContents>
+       <summary xml:lang="de">
+          <p>Hans Bannholzer, Pfleger der Georgskirche und der Pfarrei Buchs, verleiht für 1 Schilling Konstanzer Währung den St. Jörgenberg, der an den Ammasberg, an «Gerlis Guet» und an einen Wald stösst, Hans Wilhelm, Walser ab dem Buchserberg, zu Erblehen.</p><p>Für den Aussteller siegelt Graf Rudolf II. von Werdenberg-Heiligenberg.</p></summary>
+       <msItem>
+          <textLang xml:lang="de"/>
+          
+       </msItem>
+    </msContents>
+    <physDesc><objectDesc>
+          <supportDesc>
+             <support>
+                <material type="parchment"/>
+             </support>
+             <extent>
+                <dimensions type="leaves">
+        <height unit="cm" quantity="12.0"/>
+        <width unit="cm" quantity="25.5"/>
+                </dimensions>
+             </extent>
+          </supportDesc>
+       </objectDesc><bindingDesc><p>Original</p></bindingDesc><handDesc><handNote xml:id="hand17cf"><date calendar="gregorian" from-custom="1601-01-01" to-custom="1700-12-31"><precision match="@from-custom" precision="low"/></date></handNote><handNote xml:id="hand19c"><date calendar="gregorian" from-custom="1801-01-01" to-custom="1900-12-31"/></handNote></handDesc><sealDesc>
+          <seal n="1" condition="chamfered" material="wax" shape="round" attachment="sealed_on_a_parchment_tag">
+             <persName role="sigillant" ref="per000429a">Graf Rudolf&#160;II. von Werdenberg-Heiligenberg</persName>
+          </seal>
+       </sealDesc></physDesc>
+    <history>
+       <origin><origDate type="document" when-custom="1409-04-24" calendar="julian"/></origin>
+    </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>
+    <ref target="https://p.ssrq-sds-fds.ch/guidelines/transcription"/>
+            </p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+    <term ref="key000118">Walser</term>
+    <term ref="key000119">Erblehen</term>
+    <term ref="key000794">Kirche</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text type="transcript"><body>
+    <div>
+       
+       <p><seg><pb facs="LAGL_AG_III_2412-001_r"/>
+                        <lb/>Ich, <persName ref="per004486">Hans Banholzzer</persName>, ze disen
+                        zitten <term ref="lem001587">kilchenmaiger</term> und pflegger des guͦten
+                        herren <placeName ref="loc006104.02">Sant Joͤrgen</placeName> und des <term ref="lem000299">kilspel</term> ze <lb/><placeName ref="loc006100">Bux</placeName>, ku̍nd und vergich offenlich an disem brief, dz ich
+                        nǎch rǎt deren <term ref="lem000329">undertǎn</term> gemainlich ze
+                           <placeName ref="loc000198">Bux</placeName> lich und verlichen <lb/>hǎn
+                        recht und redlich ze ainem rechtten, ewigen <term ref="lem000501">erblechen</term> nǎch erblehens recht dem erbern, frommen <persName ref="per004485">Hansen Wilhelm</persName>en, <lb/>walser ab <placeName ref="loc006062.02">Buxerberg</placeName>, und sinen erben den <term ref="lem000573">berg</term>, den man nempt <placeName ref="loc006105.02">sant Joͤrgenberg</placeName>, stǒst ainhalb an des <placeName ref="loc006106.02">Amans Berg</placeName> und <lb/>uswert an <placeName ref="loc006108">Gerlis Guͤt</placeName> und inwert an <term ref="lem000251">wald</term>. Disen berg mit allen rechtten, nu̍tzzen und
+                        gewonhaiten, so von recht <lb/>und von alter dǎrzuͦgehoͤrt und ledig fu̍r
+                        maͤnlichs ansprǎch, doch mit saͤmlichen geding, dz der <choice>
+                           <abbr>vorgnt</abbr>
+                           <expan>vorgenannt</expan>
+                        </choice>
+                        <persName ref="per004485">Hans Wilhelm</persName>
+                        <lb/>und sin erben dem guͦten herren sant <persName ref="per000270">Joͤrg</persName>en und der <placeName ref="loc006104">kilchen ze
+                           Bux</placeName>
+                        <date dur-iso="R/P1Y">jaͤrlich</date> und allu̍ jǎr richtten und geben sond
+                        <lb/>alweg uf <date when-custom="--11-11" calendar="unknown">sant <persName ref="per000141">Marten</persName> tag</date> alder
+                           dar<add place="above">nach</add> ungevarlich in den naͤchsten <date dur-iso="P14D">vierzehen tagen</date> ze rechtten <term ref="lem000237">zins</term>
+                        <measure type="currency" origin="Konstanz" quantity="1" unit="ß">ain
+                           schillig <lb/><sic>pfegnig</sic> Costenzer mûntz.</measure></seg><seg>Und sol ich, der <choice>
+                           <abbr>vorgnt</abbr>
+                           <expan>vorgenannt</expan>
+                        </choice> kilchenmaiger, und die <term ref="lem000971">nǎchgebur</term>
+                        gemainlich ze <orgName ref="org001923">Bux</orgName> und all unßer naͤch<lb break="no"/>komen des ebenempten <persName ref="per004485">Hansen
+                           Wilhelm</persName>s und siner erben des ebenempten bergs und erblehens ir
+                        getru̍w <term ref="lem000475">wer</term>en sin, <lb/>wa si sin jemer
+                        bedurfent an gaistlichen und an weltlichen gerichtten nǎch erblehens recht.
+                        Er und sin erben haňd ǒch <lb/>vollen gewalt, iru̍ recht an dem <choice>
+                           <abbr>obgnt</abbr>
+                           <expan>obgenannten</expan>
+                        </choice> berg ze versetzzen oder zeverkǒffen, wen su̍ wend, doch
+                           <placeName ref="loc006104">sant Jôrgen</placeName> und der <lb/><term ref="lem000394">kilchoͤri</term> ze <placeName ref="loc006100">Bux</placeName> rechtten ǎn schaden.</seg><seg>Und des ze u̍rku̍nd der warhait, so habent wir gebetten den edeln,
+                        wolerboren <lb/>u̍nser gnaͤdigen herren graff <persName ref="per000429a">
+                           <sic>Ruͦdolffen Werdenberg</sic></persName>, dz er sin insigel fu̍r ûns
+                        gehǎt an disen brief. Wir, jetz benempter graff <lb/><persName ref="per000429a">Ruͦdolf</persName>, vergehent, dz wir von bett wegen
+                           <persName ref="per004486">Hansen Banholtzer</persName>, kilchenmaigers,
+                        und der nǎchgebur gemainlich ze <orgName ref="org001923">Bux</orgName>
+                        unser insigel <lb/>gehenkt hǎnd an disen brief, ûns und ûnsern erben ǎn
+                        schaden, der geben worden des jǎrs, do man zalt von <persName ref="per000353">Cristi</persName> geburt <lb/><date when-custom="1409-04-24" calendar="julian">vierzehehundert jǎr dǎrnǎch in dem nûnden jǎr an sant <persName ref="per000270">Joͤrg</persName>en abend</date><note>Nach Grotefend ist im Bistum Chur der Georgstag der 25. April
+                                 (<bibl><ref target="http://bilder.manuscripta-mediaevalia.de/gaeste//grotefend/grotefend.htm">Grotefend</ref> online</bibl>),  zur Datierung vgl. jedoch die Fussnote in <ref target="urn:ssrq:SSRQ-SG-III_4-250-1">SSRQ SG III/4 250-1</ref>.</note>.</seg></p>
+    </div>
+               <pb facs="LAGL_AG_III_2412-001_v"/>
+    
+       <ab place="verso" type="dorsal" hand="hand17cf">1   zins</ab>
+    
+    
+       <ab type="dorsal" place="verso" hand="hand19c">Erblehen-berg <placeName ref="loc006105">St.&#160;Jörgenberg</placeName>, 1409</ab>
+    
+    
+       <ab place="verso" type="archiving_reference">No 107; XIII</ab>
+    
+            </body><back>
+         <div>
+            <p>Graf <persName ref="per000429a">Rudolf&#160;II. von Werdenberg-Heiligenberg</persName> ist zwar nicht mehr Herr der
+     Grafschaft <placeName ref="loc000440">Werdenberg</placeName>, trotzdem wird er in der Urkunde noch als <orig>unser
+      Herr</orig> bezeichnet und tritt als erbetener Siegler auf. Zu den Walsern vgl. <ref target="urn:ssrq:SSRQ-SG-III_4-100-1">SSRQ SG III/4 100-1</ref>. </p>
+         </div>
+      </back></text>
+</TEI>

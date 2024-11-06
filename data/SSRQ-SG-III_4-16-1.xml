@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://schema.ssrq-sds-fds.ch/latest/TEI_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://schema.ssrq-sds-fds.ch/latest/TEI_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title>XIV. Abteilung: Die Rechtsquellen des Kantons St.&#160;Gallen, Dritter Teil: Die Landschaften und Landstädte, Band 4: Die Rechtsquellen der
+     Region Werdenberg: Grafschaft Werdenberg und Herrschaft Wartau, Freiherrschaft Sax-Forstegg und Herrschaft Hohensax-Gams</title><editor>
+    <persName>Sibylle Malamud</persName>
+</editor><respStmt><persName>Sibylle Malamud</persName><resp>Transkription</resp><resp>XML-Codierung der Transkription</resp><resp>Erstellung Faksimile</resp></respStmt><respStmt><persName>Pascale Sutter</persName><resp>Qualitätskontrolle</resp></respStmt></titleStmt>
+         <publicationStmt><publisher>SSRQ-SDS-FDS</publisher>
+            <date type="electronic" when-custom="2019-07-09"/>
+            <date type="print" when-custom="2020-11-20"/>
+            <availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Sammlung Schweizerischer Rechtsquellen</title>
+            <respStmt>
+               <orgName>Rechtsquellenstiftung des Schweizerischen Juristenvereins</orgName>
+               <resp>Herausgabe</resp>
+            </respStmt>
+            <idno>SSRQ-SG-III_4-16-1</idno><idno type="uuid">247cfb86-1e91-4cef-908c-150a126efa71</idno>
+         </seriesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier><settlement xml:lang="de" ref="loc000082">Gallen</settlement><repository xml:lang="de">Stiftsarchiv Pfäfers (im Stiftsarchiv St. Gallen)</repository><idno source="http://scope.stiftsarchiv.sg.ch/detail.aspx?ID=18603" xml:lang="de">StiAPf III. (27). 23.a. Nr. 7</idno></msIdentifier>
+               <head>Auszug aus dem Jahrzeitbuch von Gams betreffend den Zehnt von Sax</head>
+               <msContents>
+                  <summary xml:lang="de">
+                     <p>Herzog Leopold IV. von Habsburg-Österreich und seine Brüder stiften zu ihrem Gedenken 1395 aus dem Nutzen der Pfarrkirche Gams, bestehend aus dem Zehnt von Sax, d.h. dem kleinen Zehnt an Bohnen, Erbsen, Hirse, Nüssen, Birnen, Hühnern, Hanf und Flachs, eine Pfründe für einen Leutpriester. </p>
+                     <p>Es werden die Grenzen des Zehnts beschrieben.</p>
+                     
+                  </summary>
+                  <msItem>
+                     <textLang xml:lang="de"/>
+                     <author role="scribe"><persName ref="per004384">Ulrich Auer</persName>, Landschreiber</author>
+                     
+                     
+                  </msItem>
+               </msContents>
+               <physDesc><objectDesc>
+                     <supportDesc>
+                        <support>
+                           <material type="paper"/>
+                        </support>
+                        <extent>
+                           <dimensions type="leaves">
+                              <height unit="cm" quantity="20.0"/>
+                              <width unit="cm" quantity="34.0"/>
+                           </dimensions>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc><bindingDesc><p>Abschrift (Doppelblatt)</p></bindingDesc><handDesc><handNote xml:id="hand17c"><date calendar="gregorian" from-custom="1601-01-01" to-custom="1700-12-31"/></handNote><handNote xml:id="laterHand"/></handDesc></physDesc>
+               <history>
+                  <origin>
+                     <origDate type="document" from-custom="1619-01-01" to-custom="1619-12-31" calendar="unknown"/>
+                     <origDate type="content" from-custom="1395-01-01" to-custom="1395-12-31" calendar="julian">Undatiert, datiert nach der Jahrzahl im Text. Der Text selbst ist wohl im Zusammenhang mit dem Verkauf des Zehnts 1619 entstanden.</origDate>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>
+               <ref target="https://p.ssrq-sds-fds.ch/guidelines/transcription"/>
+            </p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term ref="key000192">Stiftung</term>
+               <term ref="key000097">Seelenheil</term>
+               <term ref="key000049">Zehnt</term>
+               <term ref="key000193">Kirchenpfründe</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text type="transcript"><body>
+               <div>
+                  
+                  <p><seg><pb n="1" facs="StiAPf_III_27_23a_Nr_7_S1"/>
+                        <lb/>In nomine domini amen. Alß man zalt von <persName ref="per000353">Christi</persName>
+                        <lb/>geburt <date from-custom="1395-01-01" to-custom="1395-12-31" calendar="julian">dreitzehenhundert jahr in dem fünff undt
+                           <lb/>nüntzigisten</date>, alß die <term ref="lem000268">hërrschafft</term> zuͦ der <placeName ref="loc006040">Hohen
+                           <lb/>Sax</placeName> und der <term ref="lem000458">kilchensatz </term>zu
+                           <placeName ref="loc006041">Gams</placeName> in handt undt <lb/>gewalt des
+                        edlen, hochgebornen, durchleüchtigen <lb/>fürsten undt herren, hertzog
+                           <persName ref="per000387">Leupoldt von Öester<lb break="no"/>reich</persName> undt seiner brüeder kommen ist undt auch <lb/>kam. Da
+                        schickt er den erwürdigen herren <lb/>meister <persName ref="per004367">Wilderich von der Huͦben</persName>, probst zu
+                          Agat, <lb/>gen <placeName ref="loc000061">Veldtkirch</placeName> an <date when-custom="--06-24" calendar="unknown">st. <persName ref="per000049">Johannis</persName> des töuffers <lb/>tag</date>,
+                        das er sölt ordnen, stifften undt machen <lb/>ein <term ref="lem000367">pfruͦndt</term> einem <term ref="lem000678">lybpriester</term> auß den
+                        nutzen <lb/>der mergenanten kilchen zu <placeName ref="loc006041">Gamß</placeName>, das <lb/>ein jeglicher <term ref="lem000678">lyppriester</term> der herrschafft von <lb/><placeName ref="loc000589">Öesterreich</placeName> für lebendt und todt bitten undt <lb/><term ref="lem012312">gedencken</term> soll mit singen undt lësen. Dartzuͦ
+                        <lb/>nam derselbig meister <persName ref="per004367">Wilderich</persName>
+                        zuͦ ihme herr <lb/><persName ref="per004368">Friderich Sattler</persName>n,
+                        kilchherren zuͦ <placeName ref="loc000061">Veldtkirch</placeName>,
+                        <lb/>corherr zu <placeName ref="loc000822">Chur</placeName>, herr <persName ref="per000357">Heinrich Gäßler</persName>en, <lb/>ritter, dozumal vogt
+                        zuͦ <placeName ref="loc000061">Veldkirch</placeName>, herr <persName ref="per004370">Burck<lb break="no"/>hart Aldegan</persName>, herr
+                           <persName ref="per004371">Hans Burderschern</persName>, <persName ref="per004372">Len<lb break="no"/>hart Stöckli</persName>, all drey
+                        chorherren zu <placeName ref="loc000822">Chur</placeName>, <lb/>herr
+                           <persName ref="per004373">Jacob Burderschern</persName>, herr <persName ref="per004374">Eberharten <lb/>auff der Bruͦgg</persName> und andere
+                        erbare leüth vil.</seg><seg>
+                        <lb/>Item des ërsten das <term ref="lem000073">zëhendli</term> zuͦ
+                           <placeName ref="loc006042">Sax</placeName>.</seg><seg>Item <lb/>alle <term ref="lem012313">schmalsatt</term> zechendt, bona,
+                        erbs, <lb/>hirs, byra, nuß, huͦner, <term ref="lem001214">hampffzehendt</term>, <lb/>flax oder wie er genant ist.</seg><seg>
+                        <lb/>Volgendt die anstös dises obstandten zëendens:</seg><seg>
+                        <lb/>Erstlich facht diser <term ref="lem000073">zeenden</term>
+                        <placeName ref="loc006043">Unden am Riet</placeName> ahn.</seg><seg>
+                        <lb/>Mer stost er dem graben noch hinauff <placeName ref="loc006043">Unden
+                           <lb/>vom Riet</placeName> nahen in ein gesetzten <term ref="lem000151">marckstein</term>
+                        <lb/>zwüschent <persName ref="per004375">Hans Hagman</persName> und
+                           <persName ref="per004376">Hanß Cammerer</persName>
+                        <lb/>dem underen.</seg><seg>Wyter stost er von diser erst<pb n="2" facs="StiAPf_III_27_23a_Nr_7_S2"/>
+                        <lb break="no"/>gesetzten marckh biß an den mittelsten wëeg, <lb/>wie alda
+                        auch ein marckh gesetzt ist.</seg><seg>
+                        <lb/>Von dannan uß diser gemelten marckh zwüsch<lb break="no"/>ent dem
+                           <persName ref="per004379">Jacob Grouw</persName>en und <persName ref="per004377">Joß Kammerer</persName>
+                        <lb/>in ein anderen abermalß gesetzten marckh<lb break="no"/>stein.</seg><seg>Mehr von diser gesetzten marckh <lb/>stost es an <persName ref="per004380">Anna Fuërer</persName>i und an <persName ref="per004375">Hans
+                           <lb/>Kammerer</persName> den oberen, daselbsten auch ein <lb/>marckh
+                        gesetzt ist.</seg><seg>
+                        <lb/>Von diserem marckstein goth es hinaus bis <lb/>an <persName ref="per004375">Hans Hagman</persName>s und <persName ref="per004382">Hanß Schyner</persName>s guͦt, <lb/>wie ein marckstein alda gesetzt
+                        ist.</seg><seg>
+                        <lb/>Von diser ehegenanten marckh dannen goth <lb/>es hinuff an die gaß,
+                        stehet alda zwüschent <lb/><persName ref="per004381">Hans Fuërer</persName>
+                        und <persName ref="per004378">Hans Cammerer</persName> dem oberen <lb/>auch
+                        ein marckstein.</seg><seg>
+                        <lb/>Eß seige aber zu wüßen, das vier <term ref="lem007839">mittmel</term>
+                        <lb/>acker in disen obgeschribnen zyl und marcken <lb/>liggendt, die
+                        gehörendt auch in disen er<lb break="no"/>koufften zëenden.</seg><seg>
+                        <lb/>Mehr und wyters stost diser zeënden ob der <lb/>landstras dem bächli
+                        noch hinuff biß <lb/>ans <placeName ref="loc006044">Pickis holtz</placeName>
+                        und underem <placeName ref="loc006044">Pickis <lb/>holtz</placeName> hinauß
+                        biß ans <placeName ref="loc006046">Schuͦmachers vëldt</placeName>
+                        <lb/>bächli.</seg><seg>Und vom bächli dardur uff <lb/>bis an die <placeName ref="loc006045">Saxer
+                           Allmeindt</placeName>.</seg><seg>
+                        <lb/>Jetz zwüschent des <persName ref="per004383">Andres Schyner</persName>s
+                        guͦt <lb/>und der <term ref="lem000512">allmeindt</term> hinauͦß biß an
+                        <placeName ref="loc006047">Wüsten <pb n="3" facs="StiAPf_III_27_23a_Nr_7_S3"/> <lb/>Wyßbach</placeName> und dem bach
+                        nach dardurch <lb/>nider, der scheidt es <unclear><sic>..</sic>ende</unclear> xv der
+                        <lb/>anstösen.</seg><seg><lb/><choice>
+                        <abbr>Landschr</abbr>
+                        <expan>Landschreiber</expan>
+                     </choice><persName ref="per004384a">Uolrich <lb/>Auwer</persName>, <choice>
+                        <abbr>m p</abbr>
+                        <expan>manu propria</expan>
+                     </choice></seg></p>
+               </div>
+               <pb n="4" facs="StiAPf_III_27_23a_Nr_7_S4"/>
+               
+                  <ab type="dorsal" place="verso" hand="hand17c"><lb/>Ußzug deß erkoufften
+                     <lb/><placeName ref="loc006042">Sax</placeName>er zëendens auß <lb/>dem jahrzytbuoch <lb/>zu
+                     <placeName ref="loc000211">Gamß</placeName>, wie auch <lb/>die beschrybung der <lb/>anstösen
+                     dessëlbigen <abbr>etc</abbr>
+                  </ab>
+               
+               
+                  <ab type="archiving_reference" place="verso" hand="laterHand">1395, cist Sax N.
+                     19</ab>
+               
+            </body><back>
+         <div>
+            <p>Am <date when-custom="1393-11-24" calendar="julian">24. November 1393</date> verkauft <persName ref="per004385">Ulrich Eberhard&#160;I. von Sax-Hohensax</persName> den Herzögen von
+                  <orgName ref="org000088">Habsburg-Österreich</orgName> die Burg <placeName ref="loc000185">Hohensax</placeName>, <placeName ref="loc000211">Gams</placeName>
+               mit dem Kirchensatz und allen dazugehörenden Leuten und Gütern für 12’000 Gulden
+                     (<bibl><ref target="http://permalink.snl.ch/bib/chbsg000056393">ChSG</ref>, <ref target="http://monasterium.net/mom/CSGXI/6616./charter?q=1395%20November%2024">Bd. 11, Nr.&#160;6616</ref></bibl>). Nach diesem Verkauf kommt es zwei Jahre
+               später zur Stiftung zum Nutzen der Kirche Gams. Das Original der Stiftung ist nicht
+               auffindbar.</p>
+         </div>
+         <div>
+            <p>Der Auszug zur Stiftung von <date from-custom="1395-01-01" to-custom="1395-12-31" calendar="julian">1395</date> wird sehr wahrscheinlich um
+               das Jahr <date from-custom="1619-01-01" to-custom="1619-12-31" calendar="unknown">1619</date> angefertigt. In diesem Jahr werden die Saxer
+               Stiftungsgüter für 1000 Gulden an <persName ref="per004378">Hans Kammerer</persName>
+               von <placeName ref="loc006042">Sax</placeName> verkauft. Zudem stammt die
+               Beschreibung der Grenzen des Zehnts nicht von <date from-custom="1395-01-01" to-custom="1395-12-31" calendar="julian">1395</date>, sondern
+               aus der Zeit der Ausfertigung. Die Grenzen und Inhaber der Güter aus dem vorliegenden
+               Auszug sind identisch mit dem Kaufbrief von <date from-custom="1619-01-01" to-custom="1619-12-31" calendar="unknown">1619</date>. Ausserdem
+               ist im Text von <orig>disen erkoufften zëenden</orig> die Rede (<bibl><ref>StASG AA
+                     2a U 27</ref></bibl>; zum <term ref="key000049">Zehnt</term> von <placeName ref="loc006042">Sax</placeName> vgl. u. a. <ref target="urn:ssrq:SSRQ-SG-III_4-164-1">SSRQ SG III/4 164-1</ref>;
+                     <bibl><ref>StASG AA 2a U 24</ref>;<ref> AA 2 B 006</ref>, S. 51–55</bibl>;
+                     <bibl><ref>PA Hilty S 006/029</ref>; <ref>S 006/030</ref>; <ref>S
+                  006/031</ref>; <ref>S 006/033</ref></bibl>; <bibl><ref>StAZH C I, Nr. 3212</ref>;
+                     <ref>A 346.4, Nr. 52</ref>; <ref>A 346.5, Nr. 346</ref></bibl>; <bibl><ref>OGA
+                     Sax</ref>, 07.03.1793</bibl>). </p>
+         </div>
+      </back></text>
+</TEI>
