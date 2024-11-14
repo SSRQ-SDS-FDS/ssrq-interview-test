@@ -1,3 +1,5 @@
 # SSRQ Coding Interview Test
 
-Dieses Repo enthält eine kleine Codingaufgabe, als Teil des Bewerbungsprozesses für die Stelle als Softwareentwickler bei der SSRQ.
+Dieses Repository enthält eine kleine Programmieraufgabe, die Teil des Bewerbungsprozesses für die Position eines wissenschaftlichen Mitarbeiters mit Schwerpunkt auf DH-Softwareentwicklung im Rahmen des Projekts „Sammlung Schweizerischer Rechtsquellen“ (SSRQ) ist.
+
+Erstellt von: [Bastian Politycki](mailto:bastian.politycki@unisg.ch)
